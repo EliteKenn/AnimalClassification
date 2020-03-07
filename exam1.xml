@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="exam1.xsl"?>
+
+<animals>
+    <type name="Mammals">
+        <traits>Endothermic(warm-blooded), Vertebrate</traits>
+        <animal>Bear</animal>
+        <animal>Cat</animal>
+        <animal>Dog</animal>
+    </type>
+    <type name="Reptiles">
+        <traits>Cold-blooded, Scales, Lungs, BackBones</traits>
+        <animal>Crocodile</animal>
+        <animal>Snake</animal>
+        <animal>Platypus</animal>
+    </type>
+    <type name="Birds">
+        <traits>Feathers, Endothermic, Oviparous(lay-down-eggs), Wings</traits>
+        <animal>Platypus</animal>
+        <animal>Pigeon</animal>
+        <animal>Turkey</animal>
+    </type>
+    <type name="Amphibians">
+        <traits>Cold-blooded, Vertebrates, Need water to survive, Breathe/absorb water through their skin </traits>
+        <animal>Frog</animal>
+        <animal>Salamander</animal>
+        <animal>Newt</animal>
+    </type>
+    <type name="Fishes">
+        <traits>Cold-blooded, Backbone and fins, Scales(most), Breathe with gills</traits>
+        <animal>Shark</animal>
+        <animal>Piranha</animal>
+        <animal>Eel</animal>
+    </type>
+</animals>
