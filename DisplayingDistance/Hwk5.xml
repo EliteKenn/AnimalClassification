@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Hwk5.xsl"?>
+
+<cities>
+    <city>
+        <name>Dublin</name>
+        <distance>3176</distance>
+    </city>
+    <city>
+        <name>Paris</name>
+        <distance>3625</distance>
+    </city>
+    <city>
+        <name>London</name>
+        <distance>3459</distance>
+    </city>
+    <city>
+        <name>Dhaka</name>
+        <distance>6883</distance>
+    </city>
+    <city>
+        <name>Berlin</name>
+        <distance>3965</distance>
+    </city>
+    <city>
+        <name>Mexico City</name>
+        <distance>2625</distance>
+    </city>
+    <city>
+        <name>Rio de Janeiro</name>
+        <distance>4808</distance>
+    </city>
+    <city>
+        <name>Lagos</name>
+        <distance>5269</distance>
+    </city>
+    <city>
+        <name>Islamabad</name>
+        <distance>6880</distance>
+    </city>
+    <city>
+        <name>Cairo</name>
+        <distance>5607</distance>
+    </city>
+    <city>
+        <name>New Delhi</name>
+        <distance>7299</distance>
+    </city>
+    <city>
+        <name>Jerusalem</name>
+        <distance>5694</distance>
+    </city>
+    <city>
+        <name>Beijing</name>
+        <distance>11012</distance>
+    </city>
+    <city>
+        <name>Tokyo</name>
+        <distance>6737</distance>
+    </city>
+</cities>
